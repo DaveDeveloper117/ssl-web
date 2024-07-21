@@ -4,7 +4,8 @@ Esta es una aplicación Angular diseñada para integrarse con una aplicación An
 ## Configuración 
 ### Clonar el Repositorio 
 ```sh 
-git clone https://github.com/DaveDeveloper117/webview-example-angular.git cd webview-example-angular
+git clone https://github.com/DaveDeveloper117/webview-example-angular.git
+cd webview-example-angular
 ```
 ### Cambiar la Configuración del Host y Puerto
 
